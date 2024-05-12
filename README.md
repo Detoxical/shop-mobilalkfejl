@@ -1,6 +1,6 @@
 # Clothing shop !! OLVASS EL LÉGYSZI !!
 
-A projekt outdated dependencyket, android gradle plugint és egyebeket használ, pontosan olyan verziók vannak mint a youtubeos playlistbe is van. Nálam minden működik és fordul, DE HA valamiért neked nem működik az apk vagy android studioban sem fordul le a projekt légy szíves ne 0 pontot adj hanem vegyél fel discordon és segítek beüzemelni vagy valami megoldást találunk, felh. nevem: detoxical
+A projekt outdated dependencyket, android gradle plugint és egyebeket használ, pontosan olyan verziók vannak mint a youtubeos playlistbe is van, Pixel 2 API 32-n futtattam. Nálam minden működik és fordul, DE HA valamiért neked nem működik az apk vagy android studioban sem fordul le a projekt légy szíves ne 0 pontot adj hanem vegyél fel discordon és segítek beüzemelni vagy valami megoldást találunk, felh. nevem: detoxical
 
 A firebases google-services.json-t benne hagytam a projektben, nem kell semmit csinálnod.
 
