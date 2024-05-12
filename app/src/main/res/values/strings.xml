@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Clothing shop</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registration">Register</string>
+    <string name="email_address">E-mail address</string>
+    <string name="password_again">Confirm password</string>
+    <string name="cancel">Cancel</string>
+    <string name="product_description">Product description.</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Description</string>
+    <string name="item_info_placeholder">Item description</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="to_cart">Cart</string>
+    <string name="delete">Delete</string>
+    <string name="login_as_guest">Login as guest</string>
+    <string name="log_out">Log out</string>
+
+    <string-array name="shopping_item_names">
+        <item>Levi\'s t-shirt</item>
+        <item>The North Face t-shirt</item>
+        <item>Levi\'s t-shirt</item>
+        <item>The North Face t-shirt</item>
+        <item>U.S. Polo Assn. shirt</item>
+        <item>LTB short</item>
+        <item>Jack &amp; Jones jeans</item>
+        <item>Levi\'s jeans</item>
+        <item>Pepe Jeans</item>
+        <item>Indicode Jeans</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>ORIGINAL TEE - Basic t-shirt</item>
+        <item>SIMPLE DOME TEE- Basic t-shirt</item>
+        <item>ORIGINAL TEE - Basic t-shirt</item>
+        <item>FINE TEE - Printed t-shirt</item>
+        <item>ALFRED - Shirt</item>
+        <item>LTB Lance Maro Undamaged Wash Shorts</item>
+        <item>JJIGLENN JJORIGINAL - Slim fit</item>
+        <item>512 SLIM TAPER LO BALL</item>
+        <item>CASH - STRAIGHT FARMER</item>
+        <item>INSANTINO - STRAIGHT FARMER</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/tshirt1</item>
+        <item>@drawable/thsirt2</item>
+        <item>@drawable/thsirt3</item>
+        <item>@drawable/thsirt4</item>
+        <item>@drawable/thsirt5</item>
+        <item>@drawable/jeans1</item>
+        <item>@drawable/jeans2</item>
+        <item>@drawable/jeans3</item>
+        <item>@drawable/jeans4</item>
+        <item>@drawable/jeans5</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>9990 Ft</item>
+        <item>11990 Ft</item>
+        <item>11990 Ft</item>
+        <item>13990 Ft</item>
+        <item>13990 Ft</item>
+        <item>15990 Ft</item>
+        <item>13990 Ft</item>
+        <item>30590 Ft</item>
+        <item>37990 Ft</item>
+        <item>19410 Ft</item>
+    </array>
+</resources>
